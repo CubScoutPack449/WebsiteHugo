@@ -6,3 +6,4 @@ indexes:
 baseurl: "http://cubscoutpack449.github.io"
 title: "CubScoutPack 449"
 canonifyurls: true
+theme: "hyde"
