@@ -3,7 +3,8 @@ layoutdir: "layouts"
 publishdir: "public"
 indexes:
   category: "categories"
-baseurl: "http://cubscoutpack449.github.io"
-title: "CubScoutPack 449"
+baseurl: "http://cubscoutpack449.github.io/"
+description: "Information"
+title: "Cub Scout Pack 449"
 canonifyurls: true
 theme: "hyde"
