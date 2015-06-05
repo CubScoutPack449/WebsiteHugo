@@ -3,6 +3,6 @@ layoutdir: "layouts"
 publishdir: "public"
 indexes:
   category: "categories"
-baseurl: "http://spencerlyon2.github.io/hugo_gh_blog"
-title: "Hugo Blog Template for GitHub Pages"
+baseurl: "http://cubscoutpack449.github.io"
+title: "CubScoutPack 449"
 canonifyurls: true
